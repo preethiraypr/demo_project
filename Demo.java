@@ -15,7 +15,7 @@ class Demo
         b = sc.nextInt();
 
         c = a + b;
-        System.out.println("Your answer is : " + c);
+        System.out.println("Result is : " + c);
         
 
 
